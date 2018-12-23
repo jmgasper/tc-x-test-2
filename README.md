@@ -1,4 +1,2 @@
-| Left | Center | Right |
-| :----------- | :--: | ---: |
-| Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra neque at diam pulvinar sagittis. Sed tincidunt arcu id feugiat vestibulum. Morbi erat lectus, aliquet a euismod quis, volutpat vel magna. Duis at ipsum porttitor, lobortis eros gravida, auctor quam. Phasellus sed viverra nulla. Donec id magna magna. Nam non pretium justo. Nulla facilisi. In vel porttitor augue. Praesent dignissim nisi massa, quis ultrices magna euismod blandit. Nunc vel odio malesuada, consequat ex vitae, lacinia nisl. Sed at ipsum erat. Nullam ut molestie leo. Integer at ante massa. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aenean nisi augue, iaculis sed odio ac, vestibulum pulvinar mi.  Morbi varius viverra nibh, eu iaculis sapien rhoncus vel. Integer imperdiet lorem eu nisl consectetur condimentum. In lacus velit, tincidunt sed fringilla vel, elementum eu libero. Vivamus ac consequat lorem. Praesent vitae mauris ultricies, malesuada dolor ac, faucibus mi. Nam orci tortor, tristique vel fermentum ac, vestibulum non sem. Praesent blandit odio massa, sit amet pulvinar ex dictum sit amet. Ut at nulla dui. Donec eget est a nibh commodo maximus. |  Center   | Right |
-
+| Default  |  Left    | Center   | Right    | Another column |
+|----------|:---------|:--------:|---------:|---------:|
